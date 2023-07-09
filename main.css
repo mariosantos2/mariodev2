@@ -43,7 +43,8 @@ body {
   height: 60px;
   background: #2c2c2c;
   gap: 10px;
-  
+
+    
  
   
 }
@@ -53,6 +54,7 @@ a{
   color: #FFF;
   font-family: 'Roboto', sans-serif; 
   height: 30px;
+    
   display: flex;
   align-items: center;
 }
@@ -61,7 +63,7 @@ a:hover {
   background: #191919;
   transition-duration: 2.8s;
   transition-delay: 300ms;
-  color: #fff;
+  color: #000;
 }
 
 
