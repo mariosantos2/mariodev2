@@ -56,7 +56,7 @@ a{
 }
 a:hover {
   background: #191919;
-  transition-duration: 1.4s;
+  transition-duration: 1s;
   transition-delay: 50ms;
 }
 
